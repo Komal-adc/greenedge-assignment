@@ -20,8 +20,8 @@ This is a **Django REST Framework (DRF)** project for managing user authenticati
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/greenedge-membership.git
-   cd greenedge-membership
+   git clone https://github.com/Komal-adc/greenedge-assignment.git
+   cd greenedge-assignment
    ```
 2. **Create a Virtual Environment & Activate It**
    ```bash
